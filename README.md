@@ -3,8 +3,7 @@
 ### About me
 - I'm studying software engineering
 - I’m currently learnin Kotlin and Android
-- I'm trying <img alt="Static Badge" src="https://img.shields.io/badge/My%20first%20app%20in%20Playstore-blue?link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.textanalyzer">
-
+- I'm trying with [![My first app](https://img.shields.io/badge/My_first_app_in_Playstore-blue)](https://play.google.com/store/apps/details?id=com.textanalyzer)
 
 <!--
 **Bbbenjaja/Bbbenjaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
