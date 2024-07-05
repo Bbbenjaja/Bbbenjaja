@@ -3,7 +3,7 @@
 ### About me
 - I'm studying software engineering
 - I’m currently learnin Kotlin and Android
-- I'm trying with [![My first app](https://img.shields.io/badge/My_first_app_in_Playstore-blue)](https://play.google.com/store/apps/details?id=com.textanalyzer)
+- I'm trying with [![My first app](https://play.google.com/store/apps/details?id=com.toolstodo.scannertexto)
 
 <!--
 **Bbbenjaja/Bbbenjaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
